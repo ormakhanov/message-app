@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/message-app.iml" filepath="$PROJECT_DIR$/.idea/message-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sendmessage/message-receive-application.iml" filepath="$PROJECT_DIR$/sendmessage/message-receive-application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/message-send/message-send.iml" filepath="$PROJECT_DIR$/message-send/message-send.iml" />
+      <module fileurl="file://$PROJECT_DIR$/receive-message/receive-message-application.iml" filepath="$PROJECT_DIR$/receive-message/receive-message-application.iml" />
+    </modules>
+  </component>
+</project>
