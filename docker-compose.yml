@@ -1,0 +1,14 @@
+version: '3.7'
+
+services:
+  postgres:
+    image: postgres:latest
+    container_name: message_db_container
+    environment:
+      POSTGRES_DB: message_db
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+    ports:
+      - "5439:5432"
+    volumes:
+      - ./data:/var/lib/postgresql/data
